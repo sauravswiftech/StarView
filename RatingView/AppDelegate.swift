@@ -2,7 +2,7 @@
 //  AppDelegate.swift
 //  RatingView
 //
-//  Created by FPTECHS068 on 12/07/21.
+//  Created by Saurav Kumar on 12/07/21.
 //
 
 import UIKit
